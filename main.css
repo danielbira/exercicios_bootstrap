@@ -1,0 +1,9 @@
+.form-control{
+    max-width: 50%;
+    margin:8px 0;
+}
+
+*{
+    background-color: blueviolet;
+    color: #fff;
+}
